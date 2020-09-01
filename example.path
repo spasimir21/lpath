@@ -1,0 +1,10 @@
+# This is a comment
+
+# This is an include statement (can contain spaces)
+@include ./paths/*.path
+
+# This is a path with interpolated env variable
+$HOME/.custom-bin
+
+# Get dir of this file with $DIR$
+$DIR$/global
