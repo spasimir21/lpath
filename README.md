@@ -13,7 +13,6 @@ nexe cli.js -o ./dist/lpath
 
 # Install
 
-Run:  
 ```bash
 curl https://raw.githubusercontent.com/spasimir21/lpath/master/install.sh | sh
 ```
